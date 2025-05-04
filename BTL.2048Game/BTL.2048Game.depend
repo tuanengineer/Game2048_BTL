@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1746150930 source:e:\btlgame2048\btl.2048game\board.cpp
+	"board.h"
+	"constants.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<utility>
+
+1746354462 e:\btlgame2048\btl.2048game\board.h
+	<vector>
+	<string>
+
+1746354462 e:\btlgame2048\btl.2048game\constants.h
+
+1746150930 source:e:\btlgame2048\btl.2048game\gamelogic.cpp
+	"gamelogic.h"
+	"constants.h"
+	<vector>
+	<algorithm>
+
+1746150930 e:\btlgame2048\btl.2048game\gamelogic.h
+	"board.h"
+	<vector>
+
+1746354462 source:e:\btlgame2048\btl.2048game\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<conio.h>
+	"constants.h"
+	"board.h"
+	"gamelogic.h"
+	"display.h"
+
+1746150930 e:\btlgame2048\btl.2048game\display.h
+	"board.h"
+	<vector>
+	<string>
+
+1746151010 source:e:\btlgame2048\btl.2048game\display.cpp
+	"display.h"
+	"constants.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstdlib>
+
